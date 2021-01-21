@@ -1,0 +1,11 @@
+1 nFieldRows
+1 nFieldCols
+0 analyzeField
+50 rollingBallRadius
+2 smoothRadius
+Triangle
+0 thresholdAdjust
+1500 minArea
+20000 maxArea
+0.3 minCircularity
+4 ringWidth
